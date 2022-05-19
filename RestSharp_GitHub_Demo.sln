@@ -11,8 +11,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestSharpPost", "RestSharpP
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestGitHubAPI", "TestGitHubAPI\TestGitHubAPI.csproj", "{8AC58241-6D5F-4DE8-BDEA-A5C6CCFFFBE0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameAPI", "GameAPI\GameAPI.csproj", "{B92BAB73-2FE9-414B-80F0-DF7F74D81CD3}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestZipopotamusApi", "TestZipopotamusApi\TestZipopotamusApi.csproj", "{E24E8784-8CD0-4EF6-B0DC-15F7A69A244E}"
 EndProject
 Global
