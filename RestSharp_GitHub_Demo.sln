@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestSharpRepos", "RestSharpDemo\RestSharpRepos.csproj", "{3F54B751-904D-46D3-A8EA-0214EFA201B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestSharpIssues", "RestSharpIssues\RestSharpIssues.csproj", "{44490E99-98F9-44B9-A670-1257A49BB3A9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestSharpPost", "RestSharpPost\RestSharpPost.csproj", "{5A9D2715-9A52-4CE9-8637-5AB7B287E8A0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestGitHubAPI", "TestGitHubAPI\TestGitHubAPI.csproj", "{8AC58241-6D5F-4DE8-BDEA-A5C6CCFFFBE0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameAPI", "GameAPI\GameAPI.csproj", "{B92BAB73-2FE9-414B-80F0-DF7F74D81CD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestZipopotamusApi", "TestZipopotamusApi\TestZipopotamusApi.csproj", "{E24E8784-8CD0-4EF6-B0DC-15F7A69A244E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F54B751-904D-46D3-A8EA-0214EFA201B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F54B751-904D-46D3-A8EA-0214EFA201B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F54B751-904D-46D3-A8EA-0214EFA201B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F54B751-904D-46D3-A8EA-0214EFA201B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44490E99-98F9-44B9-A670-1257A49BB3A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44490E99-98F9-44B9-A670-1257A49BB3A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44490E99-98F9-44B9-A670-1257A49BB3A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44490E99-98F9-44B9-A670-1257A49BB3A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A9D2715-9A52-4CE9-8637-5AB7B287E8A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A9D2715-9A52-4CE9-8637-5AB7B287E8A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A9D2715-9A52-4CE9-8637-5AB7B287E8A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A9D2715-9A52-4CE9-8637-5AB7B287E8A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AC58241-6D5F-4DE8-BDEA-A5C6CCFFFBE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AC58241-6D5F-4DE8-BDEA-A5C6CCFFFBE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AC58241-6D5F-4DE8-BDEA-A5C6CCFFFBE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AC58241-6D5F-4DE8-BDEA-A5C6CCFFFBE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B92BAB73-2FE9-414B-80F0-DF7F74D81CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B92BAB73-2FE9-414B-80F0-DF7F74D81CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B92BAB73-2FE9-414B-80F0-DF7F74D81CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B92BAB73-2FE9-414B-80F0-DF7F74D81CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E24E8784-8CD0-4EF6-B0DC-15F7A69A244E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E24E8784-8CD0-4EF6-B0DC-15F7A69A244E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E24E8784-8CD0-4EF6-B0DC-15F7A69A244E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E24E8784-8CD0-4EF6-B0DC-15F7A69A244E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AA1979E-4B99-429C-B880-CA4CC9CC559E}
+	EndGlobalSection
+EndGlobal
