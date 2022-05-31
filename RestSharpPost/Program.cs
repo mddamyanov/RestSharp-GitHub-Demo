@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Text.Json;
 
 var client = new RestClient("https://api.github.com");
-client.Authenticator = new HttpBasicAuthenticator("mddamyanov", "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");
+client.Authenticator = new HttpBasicAuthenticator("mddamyanov", "ENTERTOKEN");
 
 string url = "/repos/mddamyanov/Postman/issues";
 
